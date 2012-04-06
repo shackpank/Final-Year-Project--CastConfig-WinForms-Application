@@ -1,0 +1,9 @@
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.cmConfigForm.resources
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CastConfigApp.exe
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CastConfigApp.pdb
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CastConfigApp.exe
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CastConfigApp.pdb
+C:\Users\Ollie\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
